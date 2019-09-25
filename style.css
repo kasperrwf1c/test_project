@@ -20,8 +20,7 @@ a
     text-transform: none;
     text-decoration: none;
     box-shadow: 0 20px 50px rgba(0, 0, 0, .5);
-    overflow: hidden;
-    width: 60%;
+    overflow: hidden;    
 }
 a:before
 {
